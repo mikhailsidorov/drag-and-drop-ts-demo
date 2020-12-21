@@ -317,3 +317,4 @@ const projectState = ProjectState.getInstance();
 const projectInput = new ProjectInput();
 const activeProjectList = new ProjectList('active');
 const finishedProjectList = new ProjectList('finished');
+
